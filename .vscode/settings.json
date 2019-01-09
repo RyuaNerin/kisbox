@@ -1,0 +1,7 @@
+{
+    "go.lintOnSave": "off",
+    "go.formatFlags": [
+        "-s"
+    ],
+    "go.inferGopath": true
+}
